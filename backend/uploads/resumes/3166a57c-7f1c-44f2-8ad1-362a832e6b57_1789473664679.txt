@@ -1,0 +1,5 @@
+John Doe
+Education: B.Tech Computer Science
+Skills: Java, Spring Boot, MySQL, React, Docker
+Experience: Software Engineer Intern at Tech Corp
+Projects: PrepGPT Mock Interview Platform with automated scoring and voice feedback.

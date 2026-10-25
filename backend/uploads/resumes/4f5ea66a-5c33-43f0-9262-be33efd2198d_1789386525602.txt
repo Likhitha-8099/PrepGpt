@@ -1,0 +1,29 @@
+
+    Alice Candidate
+    Email: alice@example.com | Phone: +1 555-0199
+    
+    EXECUTIVE SUMMARY:
+    Dedicated Backend Software Engineer with 2 years of experience building high-throughput microservices in Java, Spring Boot, React, and MySQL.
+    
+    TECHNICAL SKILLS:
+    - Programming Languages: Java, Python, JavaScript, SQL
+    - Frameworks & Libraries: Spring Boot, Spring Security, Hibernate, React.js
+    - Databases & Storage: MySQL, Redis, PostgreSQL
+    - Tools & DevOps: Docker, Maven, Git, REST APIs
+    
+    WORK EXPERIENCE:
+    Software Engineering Intern | Tech Solutions Inc. | Jun 2023 - Dec 2023
+    - Designed and implemented RESTful microservices for processing high-volume candidate evaluation data.
+    - Optimized SQL queries in MySQL decreasing latency by 35%.
+    
+    EDUCATION:
+    Bachelor of Technology in Computer Science | State University | 2020 - 2024
+    
+    PROJECTS:
+    PrepGPT Mock Interview Engine
+    - Developed an adaptive AI interview platform using Spring Boot, React, and Groq LLM API.
+    - Implemented voice speech-to-text (STT) and text-to-speech (TTS) integration.
+    
+    CERTIFICATIONS:
+    - AWS Certified Cloud Practitioner
+    

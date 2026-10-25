@@ -1,0 +1,11 @@
+package com.prepgpt.entity;
+
+public enum AiOperationType {
+    QUESTION_GENERATION,
+    ANSWER_EVALUATION,
+    FOLLOW_UP_GENERATION,
+    RESUME_ANALYSIS,
+    PROJECT_ANALYSIS,
+    JOB_DESCRIPTION_ANALYSIS,
+    GENERAL_AI
+}
